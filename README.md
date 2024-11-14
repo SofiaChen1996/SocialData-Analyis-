@@ -1,4 +1,9 @@
-#Stress Detection in Social Media Posts: Take Reddit as an Example 
+# Stress Detection in Social Media Posts: Take Reddit as an Example
+The project is the final project of the course Social Data Analysis.
+## Code
+- [Bert Model](https://github.com/SofiaChen1996/SocialData-Analyis-/blob/main/BERT.ipynb)
+- [Feature Based Logistic Regression](https://github.com/SofiaChen1996/SocialData-Analyis-/blob/main/logistic_regression.ipynb)
+## Research Content 
 ![image](https://github.com/user-attachments/assets/41978596-dc82-4eca-94f2-6093218cfec8)
 ![image](https://github.com/user-attachments/assets/597817e3-b518-48af-b7df-b05db5de9528)
 ![image](https://github.com/user-attachments/assets/eb40d599-bf59-4c23-90f7-b93ffc171dd4)
@@ -21,3 +26,5 @@
 ![image](https://github.com/user-attachments/assets/90058712-03f9-4be8-893c-8386a14d3eae)
 ![image](https://github.com/user-attachments/assets/f73938d7-0a68-443a-aa2e-bb19d7927bb5)
 ![image](https://github.com/user-attachments/assets/801d571c-f12b-4a96-9937-6a3e9ba8cf1c)
+### Data Set 
+[Raw Data](https://github.com/SofiaChen1996/SocialData-Analyis-/blob/main/total.csv)
